@@ -1,25 +1,20 @@
-# readme
-AOrps Emoji Standard for creating aesthetically pleasing READMEs
+# Repo-Name
 
-```txt
-* : Must have
-+ : Recommended
-```
 ## :pushpin: Motivation 
 
-## :memo: Description*
+## :memo: Description
 
-## :hammer: Build | (How to Build)*
+## :hammer: Build | (How to Build)
 
-## :alembic: Usage | (How to Use)*
+## :alembic: Usage | (How to Use)
 
 ## :triangular_ruler: Architecture
 
 ## :tram: Infrastructure
 
-## :microscope: Technologies+
+## :microscope: Technologies
 
-## :card_file_box: Directory Explanation+
+## :card_file_box: Directory Explanation
 
 ## :blue_book: Technical Details
 
@@ -28,6 +23,3 @@ AOrps Emoji Standard for creating aesthetically pleasing READMEs
 ## :triangular_flag_on_post: Alert | (Reverse Engineering)
 
 ## :wrench: Configurations
-
-
-<!-- https://gitmoji.dev/   : use this somehow -->
