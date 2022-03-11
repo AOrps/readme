@@ -7,11 +7,11 @@ AOrps Emoji Standard for creating aesthetically pleasing READMEs
 ```
 ## :pushpin: Motivation 
 
-## :scroll: Description*
+## :memo: Description*
 
-## :hammer: Build* (How to Build)
+## :hammer: Build | (How to Build)*
 
-## Usage* :zap: (How to Use)
+## :alembic: Usage | (How to Use)*
 
 ## :triangular_ruler: Architecture
 
@@ -19,12 +19,15 @@ AOrps Emoji Standard for creating aesthetically pleasing READMEs
 
 ## :microscope: Technologies+
 
-## :microscope: Directory Explanation+
+## :card_file_box: Directory Explanation+
 
 ## :blue_book: Technical Details
 
 ## :books: Resources
 
-## :triangular_flag_on_post: Reversing?
+## :triangular_flag_on_post: Alert | (Reverse Engineering)
+
+## :wrench: Configurations
+
 
 <!-- https://gitmoji.dev/   : use this somehow -->
