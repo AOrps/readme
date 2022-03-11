@@ -10,7 +10,7 @@
 
 ## :triangular_ruler: Architecture
 
-## :tram: Infrastructure
+## (:tram: | :bricks: )  Infrastructure
 
 ## :microscope: Technologies
 
