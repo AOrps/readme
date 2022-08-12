@@ -1,27 +1,20 @@
 # Repo-Name
+- Description
 
-## :pushpin: Motivation 
+## :mag: Help | Manual | Functionality
 
-## :memo: Description
+## :hammer: How to Build
 
-## :hammer: Build | (How to Build)
+## :alembic: Usage
 
-## :alembic: Usage | (How to Use)
+---
 
-## :triangular_ruler: Architecture
-
-## (:tram: | :bricks: )  Infrastructure
-
-## :microscope: Technologies
+## :framed_picture: Screenshots / Images
 
 ## :card_file_box: Directory Explanation
 
-## :blue_book: Technical Details
-
-## :books: Resources
-
-## :triangular_flag_on_post: Alert | (Reverse Engineering)
-
-## :wrench: Configurations
+| Directory | Explanation
+| :-------: | :---------
+|           | 
 
 ## :warning: Disclaimer
