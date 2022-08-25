@@ -17,9 +17,12 @@
 
 ## :card_file_box: Directory Explanation
 
-| Directory | Explanation
-| :-------: | :---------
-|           | 
+```s
+# Use tree to get a nicer graphical implementation 
+.
+├───dir1        ; explanation of dir1
+└───dir2        ; ---
+```
 
 ## :warning: Disclaimer
 
