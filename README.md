@@ -16,6 +16,7 @@
 ## :framed_picture: Screenshots / Images
 
 ## :card_file_box: Directory Explanation
+<!-- tree command: tree -d --noreport -->
 
 ```s
 # Use tree to get a nicer graphical implementation
